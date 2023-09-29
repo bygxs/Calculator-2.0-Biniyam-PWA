@@ -1,0 +1,23 @@
+{
+    "name": "Calculator Application",
+    "short_name": "CalcApp",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#33cc33",
+    "theme_color": "#00802b",
+    "orientation": "portrait-primary",
+    "icons": [
+     
+        {
+            "src":"/icons/icon128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src":"/icons/icon512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+
+}
